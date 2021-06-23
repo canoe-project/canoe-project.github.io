@@ -19,7 +19,7 @@ locale: "ko-KR"
 title: "Canoe Blog"
 title_separator: "-"
 subtitle: "GitHub Blog"
-name: "Your Name"
+name: "Jung Do Hyun"
 description: "프로그래밍 기술 정리 블로그"
 url: "https://canoe-project.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name: "정도현"
+  name: "Jung Do Hyun"
   avatar: "/assets/images/kurzgesagt bird.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Computer engineering student"
   location: "south korea"
