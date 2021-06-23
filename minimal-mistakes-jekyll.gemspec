@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+gem "minimal-mistakes-jekyll"
 Gem::Specification.new do |spec|
   spec.name          = "minimal-mistakes-jekyll"
   spec.version       = "0.1.0"
