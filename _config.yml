@@ -17,16 +17,16 @@ minimal_mistakes_skin: "default" #"air", "aqua", "contrast", "dark", "dirt", "ne
 # Site Settings
 locale: "ko-KR"
 title: "Canoe Blog"
-title_separator: "-"
+title_separator: ""
 subtitle: "GitHub Blog"
 name: "Jung Do Hyun"
-description: "프로그래밍 기술 정리 블로그"
+description: "programming skills blog"
 url: "https://canoe-project.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "canoe-project/canoe-project.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "Canoe" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Canoe Blog" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name: "Jung Do Hyun"
-  avatar: "/assets/images/kurzgesagt bird.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Computer engineering student"
-  location: "south korea"
+  location: "Republic of Korea"
   email:
   links:
     - label: "Email"
