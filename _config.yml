@@ -267,6 +267,12 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  web-mini-project:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
@@ -281,3 +287,10 @@ defaults:
       share: true
       related: true
       show_date: true #  post date snippets
+  - scope:
+      path: ""
+      type: web-mini-project
+    values:
+      layout: single
+      author_profile: false
+      share: true
