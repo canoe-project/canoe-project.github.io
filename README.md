@@ -1,8 +1,10 @@
 # Overview
 
+Git page blog to save research
+
 ## Jekyll Theme
 
-"Minimal Mistakes Jekyll theme"
+using [**Minimal Mistakes Jekyll theme**](https://github.com/mmistakes/minimal-mistakes)
 
 ## License
 
