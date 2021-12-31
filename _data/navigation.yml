@@ -4,9 +4,10 @@ main:
     url: /about/
   - title: "Mini Project"
     url: /mini-project/
-
-web-mini-project:
-  - title: "Scroll"
-    children:
-      - title: "기본 스크롤"
-        url: /web-mini-project/basic-scroll/
+  - title: "BookMark"
+    url: /bookmark/
+# web-mini-project:
+#   - title: "Scroll"
+#     children:
+#       - title: "기본 스크롤"
+#         url: /web-mini-project/01-basic-scroll/
